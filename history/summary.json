@@ -10,12 +10,32 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 428,
-    "timeDay": 428,
-    "timeWeek": 428,
-    "timeMonth": 428,
-    "timeYear": 428,
+    "time": 397,
+    "timeDay": 397,
+    "timeWeek": 397,
+    "timeMonth": 397,
+    "timeYear": 397,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Funky Ducks - Client",
+    "url": "https://client.funkyducks.ml/",
+    "icon": "https://icons.duckduckgo.com/ip3/client.funkyducks.ml.ico",
+    "slug": "funky-ducks-client",
+    "status": "down",
+    "uptime": "22.72%",
+    "uptimeDay": "22.72%",
+    "uptimeWeek": "22.72%",
+    "uptimeMonth": "22.72%",
+    "uptimeYear": "22.72%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-12-04": 0
+    }
   },
   {
     "name": "Test Broken Site",
