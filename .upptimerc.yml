@@ -7,8 +7,8 @@ sites:
     url: https://funkyducks.ml/
   - name: Funky Ducks - Client
     url: https://client.funkyducks.ml/
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Status Site
+    url: https://captainqwastaken.github.io/funkyducks-status/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
