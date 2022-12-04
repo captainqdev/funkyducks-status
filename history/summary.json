@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 650,
-    "timeDay": 650,
-    "timeWeek": 650,
-    "timeMonth": 650,
-    "timeYear": 650,
+    "time": 624,
+    "timeDay": 624,
+    "timeWeek": 624,
+    "timeMonth": 624,
+    "timeYear": 624,
     "dailyMinutesDown": {}
   },
   {
@@ -23,36 +23,38 @@
     "icon": "https://icons.duckduckgo.com/ip3/client.funkyducks.ml.ico",
     "slug": "funky-ducks-client",
     "status": "down",
-    "uptime": "0.07%",
-    "uptimeDay": "0.07%",
-    "uptimeWeek": "0.07%",
-    "uptimeMonth": "0.07%",
-    "uptimeYear": "0.07%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-04": 28
+      "2022-12-04": 38
     }
   },
   {
     "name": "Status Site",
-    "url": "https://captainqwastaken.github.io/funkyducks-status/",
-    "icon": "https://icons.duckduckgo.com/ip3/captainqwastaken.github.io.ico",
+    "url": "https://captainq.github.io/funkyducks-status/",
+    "icon": "https://icons.duckduckgo.com/ip3/captainq.github.io.ico",
     "slug": "status-site",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 84,
-    "timeDay": 84,
-    "timeWeek": 84,
-    "timeMonth": 84,
-    "timeYear": 84,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.64%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.64%",
+    "time": 88,
+    "timeDay": 88,
+    "timeWeek": 88,
+    "timeMonth": 88,
+    "timeYear": 88,
+    "dailyMinutesDown": {
+      "2022-12-04": 0
+    }
   }
 ]
