@@ -23,7 +23,7 @@ status-website:
     - title: Status
       href: /
     - title: Funky Ducks
-      href: https://funykducks.ml/?from=status
+      href: https://funkyducks.ml/?from=status
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
