@@ -1,14 +1,10 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: CaptainQ
+repo: funkyducks-status
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Funky Ducks
+    url: https://funkyducks.ml/
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
@@ -24,8 +20,8 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Funky Ducks
+      href: https://funykducks.ml/?from=status
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
