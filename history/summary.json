@@ -10,11 +10,11 @@
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.60%",
-    "time": 981,
-    "timeDay": 2010,
-    "timeWeek": 981,
-    "timeMonth": 981,
-    "timeYear": 981,
+    "time": 959,
+    "timeDay": 1769,
+    "timeWeek": 959,
+    "timeMonth": 959,
+    "timeYear": 959,
     "dailyMinutesDown": {
       "2022-12-07": 17
     }
@@ -30,37 +30,34 @@
     "uptimeWeek": "97.91%",
     "uptimeMonth": "97.91%",
     "uptimeYear": "97.91%",
-    "time": 2870,
-    "timeDay": 2991,
-    "timeWeek": 2870,
-    "timeMonth": 2870,
-    "timeYear": 2870,
+    "time": 2610,
+    "timeDay": 2581,
+    "timeWeek": 2610,
+    "timeMonth": 2610,
+    "timeYear": 2610,
     "dailyMinutesDown": {
       "2022-12-07": 17,
       "2022-12-04": 74
     }
   },
   {
-    "name": "Status Site",
-    "url": "https://captainq.github.io/funkyducks-status/",
-    "icon": "https://icons.duckduckgo.com/ip3/captainq.github.io.ico",
-    "slug": "status-site",
+    "name": "Funky Ducks - Test",
+    "url": "https://am.funkyducks.ml/",
+    "icon": "https://icons.duckduckgo.com/ip3/am.funkyducks.ml.ico",
+    "slug": "funky-ducks-test",
     "status": "down",
-    "uptime": "0.54%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.54%",
-    "uptimeMonth": "0.54%",
-    "uptimeYear": "0.54%",
-    "time": 67,
-    "timeDay": 44,
-    "timeWeek": 67,
-    "timeMonth": 67,
-    "timeYear": 67,
+    "uptime": "24.51%",
+    "uptimeDay": "24.51%",
+    "uptimeWeek": "24.51%",
+    "uptimeMonth": "24.51%",
+    "uptimeYear": "24.51%",
+    "time": 274,
+    "timeDay": 274,
+    "timeWeek": 274,
+    "timeMonth": 274,
+    "timeYear": 274,
     "dailyMinutesDown": {
-      "2022-12-07": 975,
-      "2022-12-06": 1440,
-      "2022-12-05": 1440,
-      "2022-12-04": 445
+      "2022-12-07": 0
     }
   }
 ]
