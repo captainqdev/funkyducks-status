@@ -4,7 +4,7 @@ repo: funkyducks-status
 
 sites:
   - name: Funky Ducks
-    url: https://domain.com/
+    url: https://funkyducks.ml/
   - name: Funky Ducks - Client
     url: https://client.funkyducks.ml/
   - name: Status Site
