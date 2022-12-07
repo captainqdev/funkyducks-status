@@ -1,8 +1,8 @@
 [
   {
     "name": "Funky Ducks",
-    "url": "https://domain.com/",
-    "icon": "https://icons.duckduckgo.com/ip3/domain.com.ico",
+    "url": "https://funkyducks.ml/",
+    "icon": "https://icons.duckduckgo.com/ip3/funkyducks.ml.ico",
     "slug": "funky-ducks",
     "status": "up",
     "uptime": "99.60%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "99.60%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.60%",
-    "time": 940,
-    "timeDay": 2095,
-    "timeWeek": 940,
-    "timeMonth": 940,
-    "timeYear": 940,
+    "time": 981,
+    "timeDay": 2010,
+    "timeWeek": 981,
+    "timeMonth": 981,
+    "timeYear": 981,
     "dailyMinutesDown": {
       "2022-12-07": 17
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "97.91%",
     "uptimeMonth": "97.91%",
     "uptimeYear": "97.91%",
-    "time": 3195,
-    "timeDay": 3591,
-    "timeWeek": 3195,
-    "timeMonth": 3195,
-    "timeYear": 3195,
+    "time": 2870,
+    "timeDay": 2991,
+    "timeWeek": 2870,
+    "timeMonth": 2870,
+    "timeYear": 2870,
     "dailyMinutesDown": {
       "2022-12-07": 17,
       "2022-12-04": 74
@@ -51,13 +51,13 @@
     "uptimeWeek": "0.54%",
     "uptimeMonth": "0.54%",
     "uptimeYear": "0.54%",
-    "time": 66,
-    "timeDay": 28,
-    "timeWeek": 66,
-    "timeMonth": 66,
-    "timeYear": 66,
+    "time": 67,
+    "timeDay": 44,
+    "timeWeek": 67,
+    "timeMonth": 67,
+    "timeYear": 67,
     "dailyMinutesDown": {
-      "2022-12-07": 972,
+      "2022-12-07": 975,
       "2022-12-06": 1440,
       "2022-12-05": 1440,
       "2022-12-04": 445
