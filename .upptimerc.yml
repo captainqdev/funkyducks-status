@@ -11,7 +11,7 @@ sites:
     url: https://piglands.ml/
   - name: Scopestar
     url: https://scopestar.ml/
-  - name: Scopestar - API (Funky Ducks, Pig Lands)
+  - name: Scopestar - API
     url: https://api.scopestar.ml/
 
 status-website:
