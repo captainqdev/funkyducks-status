@@ -7,11 +7,11 @@ sites:
     url: https://funkyducks.ml/
   - name: Funky Ducks - Client
     url: https://client.funkyducks.ml/
-  - name: Funky Ducks - Test 
-    url: https://am.funkyducks.ml/
+  - name: Piglands
+    url: https://piglands.ml/
   - name: Scopestar
     url: https://scopestar.ml/
-  - name: Scopestar - API
+  - name: Scopestar - API (Funky Ducks, Pig Lands)
     url: https://api.scopestar.ml/
 
 status-website:
