@@ -9,6 +9,10 @@ sites:
     url: https://client.funkyducks.ml/
   - name: Funky Ducks - Test 
     url: https://am.funkyducks.ml/
+  - name: Scopestar
+    url: https://scopestar.ml/
+  - name: Scopestar - API
+    url: https://api.scopestar.ml/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
