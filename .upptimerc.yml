@@ -15,6 +15,8 @@ sites:
     url: https://api.scopestar.ml/
   - name: File Server 2
     url: https://files2.scopestar.ml/
+  - name: File Server 3
+    url: https://files3.scopestar.ml/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
