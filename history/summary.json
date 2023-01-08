@@ -4,19 +4,19 @@
     "url": "https://funkyducks.ml/",
     "icon": "https://icons.duckduckgo.com/ip3/funkyducks.ml.ico",
     "slug": "funky-ducks",
-    "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "94.65%",
-    "uptimeWeek": "99.24%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
+    "status": "down",
+    "uptime": "99.79%",
+    "uptimeDay": "95.56%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.79%",
     "time": 1759,
     "timeDay": 4285,
     "timeWeek": 4049,
     "timeMonth": 2036,
     "timeYear": 1759,
     "dailyMinutesDown": {
-      "2023-01-08": 77,
+      "2023-01-08": 64,
       "2022-12-30": 23,
       "2022-12-07": 17
     }
@@ -51,18 +51,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/piglands.ml.ico",
     "slug": "piglands",
     "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "93.83%",
-    "uptimeWeek": "99.12%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
+    "uptime": "99.83%",
+    "uptimeDay": "94.80%",
+    "uptimeWeek": "99.26%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 2203,
     "timeDay": 6652,
     "timeWeek": 4638,
     "timeMonth": 2203,
     "timeYear": 2203,
     "dailyMinutesDown": {
-      "2023-01-08": 89
+      "2023-01-08": 75
     }
   },
   {
@@ -70,19 +70,19 @@
     "url": "https://scopestar.ml/",
     "icon": "https://icons.duckduckgo.com/ip3/scopestar.ml.ico",
     "slug": "scopestar",
-    "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "92.70%",
-    "uptimeWeek": "98.96%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
+    "status": "down",
+    "uptime": "99.80%",
+    "uptimeDay": "93.68%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.80%",
     "time": 2637,
     "timeDay": 7264,
     "timeWeek": 4940,
     "timeMonth": 2637,
     "timeYear": 2637,
     "dailyMinutesDown": {
-      "2023-01-08": 104
+      "2023-01-08": 90
     }
   },
   {
