@@ -7,6 +7,8 @@ sites:
     url: https://funkyducks.ml/
   - name: Funky Ducks - Client
     url: https://client.funkyducks.ml/
+  - name: Funky Ducks Firebase-Side
+    url: https://fire-eb549.web.app/
   - name: Piglands
     url: https://piglands.ml/
   - name: Scopestar
