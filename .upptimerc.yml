@@ -4,7 +4,7 @@ repo: funkyducks-status
 
 sites:
   - name: Funky Ducks
-    url: https://funkyducks.ml/
+    url: https://fd.pg80.net/
   - name: Piglands
     url: https://piglands.ml/
   - name: Scopestar
