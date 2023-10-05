@@ -1,7 +1,7 @@
 url: https://photoreal.cf/
-status: up
-code: 200
-responseTime: 406
-lastUpdated: 2023-10-05T04:45:54.803Z
+status: down
+code: 429
+responseTime: 500
+lastUpdated: 2023-10-05T05:52:21.820Z
 startTime: 2023-08-13T15:10:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
