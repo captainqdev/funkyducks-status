@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/fd.pg80.net.ico",
     "slug": "funky-ducks",
     "status": "down",
-    "uptime": "40.94%",
+    "uptime": "40.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 374,
     "dailyMinutesDown": {
-      "2024-07-20": 75,
+      "2024-07-21": 82,
+      "2024-07-20": 1440,
       "2024-07-19": 1440,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
@@ -355,8 +356,7 @@
       "2023-07-26": 1440,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
-      "2023-07-23": 1440,
-      "2023-07-22": 1440
+      "2023-07-23": 1440
     }
   },
   {
@@ -365,7 +365,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/piglands.ml.ico",
     "slug": "piglands",
     "status": "down",
-    "uptime": "30.08%",
+    "uptime": "30.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -376,7 +376,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-20": 75,
+      "2024-07-21": 82,
+      "2024-07-20": 1440,
       "2024-07-19": 1440,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
@@ -739,8 +740,7 @@
       "2023-07-26": 1440,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
-      "2023-07-23": 1440,
-      "2023-07-22": 1440
+      "2023-07-23": 1440
     }
   },
   {
@@ -749,18 +749,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/scopestar.ml.ico",
     "slug": "scopestar",
     "status": "down",
-    "uptime": "37.77%",
+    "uptime": "37.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 942,
+    "time": 946,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-20": 75,
+      "2024-07-21": 82,
+      "2024-07-20": 1440,
       "2024-07-19": 1440,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
@@ -1123,8 +1124,7 @@
       "2023-07-26": 1440,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
-      "2023-07-23": 1440,
-      "2023-07-22": 1440
+      "2023-07-23": 1440
     }
   },
   {
@@ -1133,18 +1133,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.scopestar.ml.ico",
     "slug": "scopestar-api",
     "status": "down",
-    "uptime": "37.69%",
+    "uptime": "37.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 358,
+    "time": 357,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-20": 75,
+      "2024-07-21": 82,
+      "2024-07-20": 1440,
       "2024-07-19": 1440,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
@@ -1507,8 +1508,7 @@
       "2023-07-26": 1440,
       "2023-07-25": 1440,
       "2023-07-24": 1440,
-      "2023-07-23": 1440,
-      "2023-07-22": 1440
+      "2023-07-23": 1440
     }
   },
   {
@@ -1517,18 +1517,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/photoreal.cf.ico",
     "slug": "photo-real",
     "status": "down",
-    "uptime": "25.45%",
+    "uptime": "25.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "25.45%",
+    "uptimeYear": "25.38%",
     "time": 702,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 702,
     "dailyMinutesDown": {
-      "2024-07-20": 75,
+      "2024-07-21": 82,
+      "2024-07-20": 1440,
       "2024-07-19": 1440,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
@@ -1794,18 +1795,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.photoreal.cf.ico",
     "slug": "photo-real-api",
     "status": "down",
-    "uptime": "25.25%",
+    "uptime": "25.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "25.25%",
+    "uptimeYear": "25.18%",
     "time": 1528,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1528,
     "dailyMinutesDown": {
-      "2024-07-20": 75,
+      "2024-07-21": 82,
+      "2024-07-20": 1440,
       "2024-07-19": 1440,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
